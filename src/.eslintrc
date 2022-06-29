@@ -1,0 +1,9 @@
+{
+    "extends":"react-app",
+    "rules": {
+        "no-console":"warn",
+        "no-var":"warn",
+        "no-whitespace-before-property":"warn"
+
+    }
+}
